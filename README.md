@@ -15,7 +15,7 @@ My name is Kaio, i'm 18 years old and from Brazil 🧑🏻. Hold a technical deg
             src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-1155ba?style=for-the-badge&logo=linkein&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="">
         <img
             src="https://custom-icon-badges.demolab.com/badge/-WEBSITE-black?style=for-the-badge&logo=code&logoColor=white"
         />
