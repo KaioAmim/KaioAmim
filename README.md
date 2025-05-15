@@ -119,7 +119,7 @@ My name is Kaio, i'm 18 years old and from Brazil 🧑🏻. Hold a technical deg
     align="left" 
     alt="GitHub Stats" 
     height="180"
-    width="400"
+    width="430"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=KaioAmim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
