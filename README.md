@@ -1,4 +1,4 @@
-# Hello Everyone, I'm Dev. Kaio Amim!👋
+# Hello World, I'm Kaio Amim!👋
 
 
 ## About me:
