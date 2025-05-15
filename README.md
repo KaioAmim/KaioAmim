@@ -7,11 +7,6 @@
 
 ![KaioAmim GitHub stats](https://github-readme-stats.vercel.app/api?username=KaioAmim&show_icons=true&theme=tokyonight)
 
-<br>
-<p>Studying Information Systems in university and I also have a technical background in Systems Development. 📚 I'm 18 year old Junior Developer from Brazil 🧑🏻. Looking some works in the area of technology to learn more and earn experience 💼.
-</p>
-
-
 ## Tech Stacks 🖥️
 
 ### Front-End:
