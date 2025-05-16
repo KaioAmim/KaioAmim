@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&letterSpacing=1px&pause=1007&color=6491de&width=600&height=60&lines=Hello+World%2C+I'm+Kaio+Amim+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&letterSpacing=1px&pause=1007&color=6491de&width=600&height=50&lines=Hello+World%2C+I'm+Kaio+Amim+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 **`</ Developer Jr. >`**
 
