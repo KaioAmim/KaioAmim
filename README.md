@@ -12,7 +12,7 @@ My name is Kaio, i'm 19 years old and from Brazil 🧑🏻. Hold a technical deg
     </a>
     <a href="https://www.linkedin.com/in/kaio-amim">
         <img 
-            src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-BLUE?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
     <a href="">
