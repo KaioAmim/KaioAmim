@@ -2,7 +2,7 @@
 
 **`Developer Jr. 👩🏻‍💻`**
 
-My name is Kaio, i'm 18 years old and from Brazil 🧑🏻. Hold a technical degree in Systems Development and am currently pursuing a in Information Systems at university 📚. I’m seeking an opportunity in the field. My goal is to become a full stack developer 💼.
+My name is Kaio, i'm 19years old and from Brazil 🧑🏻. Hold a technical degree in Systems Development and am currently pursuing a in Information Systems at university 📚. I’m seeking an opportunity in the field. My goal is to become a full stack developer 💼.
 
 <p align="left">
     <a href="https://www.instagram.com/KaioAmim_">
