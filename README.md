@@ -1,8 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=6491de&width=650&height=50&lines=</+Hello+World%2C+I'm+Kaio+Amim+>)](https://git.io/typing-svg)
 
-**`Developer Jr. 👩🏻‍💻`**
+👨‍💻 Junior Web Developer
 
-My name is Kaio, i'm 19 years old and from Brazil 🧑🏻. Hold a technical degree in Systems Development and am currently pursuing a in Information Systems at university 📚. I’m seeking an opportunity in the field. My goal is to become a full stack developer 💼.
+Junior Web Developer with hands-on experience building web systems using PHP and MySQL. Experience includes developing applications with CRUD operations, dynamic forms, basic authentication, and database integration.
+
+I have worked on projects such as scheduling and data management systems, applying programming logic, clean code organization, and version control with Git and GitHub.
+
+Main technologies:
+• PHP  
+• MySQL  
+• HTML5 / CSS3  
+• JavaScript (basic)  
+• Git / GitHub  
+
+Currently seeking my first opportunity as a Junior Developer to grow technically and contribute to real-world solutions.
 
 <p align="left">
     <a href="https://www.instagram.com/KaioAmim_">
