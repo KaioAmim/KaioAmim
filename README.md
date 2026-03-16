@@ -139,7 +139,7 @@ Currently seeking my first opportunity as a Junior Developer to grow technically
     alt="Top Languages" 
     height="180" 
     width="375"
-    src=" https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAmim&layout=compact&theme=radical""
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAmim&layout=compact&theme=radical"
   />
 </p>
 <picture align="center">
