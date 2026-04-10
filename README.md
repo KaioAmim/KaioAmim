@@ -2,18 +2,13 @@
 
 👨‍💻 Junior Web Developer
 
-Junior Web Developer with hands-on experience building web systems using PHP and MySQL. Experience includes developing applications with CRUD operations, dynamic forms, basic authentication, and database integration.
+I'm a Junior Web Developer
 
-I have worked on projects such as scheduling and data management systems, applying programming logic, clean code organization, and version control with Git and GitHub.
+I focus on developing web applications, working with backend logic, authentication, and database integration.
 
-Main technologies:
-• PHP  
-• MySQL  
-• HTML5 / CSS3  
-• JavaScript (basic)  
-• Git / GitHub  
-
-Currently seeking my first opportunity as a Junior Developer to grow technically and contribute to real-world solutions.
+I value clean, organized, and maintainable code.
+    
+🚀 Looking to apply my skills and grow as a developer.
 
 <p align="left">
     <a href="https://www.instagram.com/KaioAmim_">
