@@ -2,13 +2,9 @@
 
 👨‍💻 Junior Web Developer
 
-I'm a Junior Web Developer
+Web developer with experience in PHP, JavaScript, HTML and CSS, focused on building responsive web applications and integrating APIs. Knowledge of clean code practices and backend logic.
 
-I focus on developing web applications, working with backend logic, authentication, and database integration.
-
-I value clean, organized, and maintainable code.
-    
-🚀 Looking to apply my skills and grow as a developer.
+🚀 Seeking an opportunity to grow as a developer and contribute to real-world projects.
 
 <p align="left">
     <a href="https://www.instagram.com/KaioAmim_">
