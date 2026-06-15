@@ -55,14 +55,14 @@ Desenvolvedor em formação, com foco em aplicações web, sistemas de gerenciam
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.shion.dev/api?username=KaioAmim&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
+<img width="55%" src="https://github-readme-stats.shion.dev/api?username=KaioAmim&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
 
 </div>
 
 <div align="center">
 
-  <img height="125em" src="https://streak-stats.demolab.com/?user=KaioAmim&theme=radical&hide_border=false"/>
-  <img height="125em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KaioAmim&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  <img height="127em" src="https://streak-stats.demolab.com/?user=KaioAmim&theme=radical&hide_border=false"/>
+  <img height="127em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KaioAmim&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
 
 </div>
 
