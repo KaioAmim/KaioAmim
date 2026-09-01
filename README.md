@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="./assets/github-banner.svg" alt="Banner" width="100%"> 
+    <img src="./assets/banner.svg" alt="Banner" width="100%"> 
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&letterSpacing=1px&pause=1007&color=a855f7&width=650&height=50&lines=</+Hello+World%2C+I'm+Kaio+Amim+>)](https://git.io/typing-svg)
