@@ -57,7 +57,7 @@ Desenvolvedor em formação, com foco em aplicações web, sistemas de gerenciam
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.shion.dev/api?username=KaioAmim&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
+<img width="65%" src="https://github-readme-stats.shion.dev/api?username=KaioAmim&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
 
 </div>
 
